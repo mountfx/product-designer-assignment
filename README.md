@@ -3,8 +3,10 @@
 **Camper** is ein Startup aus Italien, welches unter dem selben Namen ein Online-Portal für touristische Attraktionen und Camping-Unterkünfte betriebt.
 Zielgruppe sind junge, aktive Reisende, die auch mal etwas weniger weit in die Tasche greifen möchten.
 
-Intern brauchen wir für die Bearbeitung der Inhalte auf dem Portal die Möglichkeit Touren verwalten zu können.
-Dafür soll in der App ein eigener Menüpunkt in der Menüleiste eingebaut werden.
+Die Plattform beinhaltet aktuell nur Touren in der näheren Umgebung.
+Die Verwaltung der Inhalte auf dem Portal soll über eine Web-Applikation erfolgen.
+Für die Verwaltung der Touren gibt es in der App aber noch kein User Inferface.
+Hierfür soll in der App ein eigener Menüpunkt in der Menüleiste eingebaut werden.
 Über diesen Menüpunkt können Touren erstellt, bearbeitet, gelöscht und veröffentlicht bzw. unveröffentlicht werden.
 
 #### User stories
@@ -40,7 +42,8 @@ Dafür soll in der App ein eigener Menüpunkt in der Menüleiste eingebaut werde
     * Angebote
     * Zimmer
     * (Touren)
-    + Events
+    * Events
+* Die App wird nur auf Desktop verwendet.
 
 #### Weitere Aufgaben
 * Bei der Gestaltung des Menüs braucht es pro Menüpunkt ein passendes Icon. Erstelle Vektorgrafiken zu den einzelnen Menüpunkten und baue diese ins Design ein.
