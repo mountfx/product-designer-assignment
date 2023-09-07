@@ -1,7 +1,10 @@
 # Insight Day — Product Designer
 
-Für unsere Inhalte-App brauchen wir die Möglichkeit Touren verwalten zu können.
-Dafür soll ein eigener Menüpunkt in der Menüleiste eingebaut werden.
+**Camper** is ein Startup in Italien, welches unter dem selben Namen ein Online-Portal für touristische Attraktionen und Camping-Unterkünfte betriebt.
+Zielgruppe sind junge, aktive Reisende, die auch mal etwas weniger weit in die Tasche greifen möchten.
+
+Intern brauen wir für die Bearbeitung der Inhalte auf dem Portal die Möglichkeit Touren verwalten zu können.
+Dafür soll in der App ein eigener Menüpunkt in der Menüleiste eingebaut werden.
 Über diesen Menüpunkt können Touren erstellt, bearbeitet, gelöscht und veröffentlicht bzw. unveröffentlicht werden.
 
 #### User stories
