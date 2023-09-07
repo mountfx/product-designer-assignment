@@ -1,6 +1,6 @@
 # Insight Day — Product Designer
 
-**Camper** is ein Startup in Italien, welches unter dem selben Namen ein Online-Portal für touristische Attraktionen und Camping-Unterkünfte betriebt.
+**Camper** is ein Startup aus Italien, welches unter dem selben Namen ein Online-Portal für touristische Attraktionen und Camping-Unterkünfte betriebt.
 Zielgruppe sind junge, aktive Reisende, die auch mal etwas weniger weit in die Tasche greifen möchten.
 
 Intern brauen wir für die Bearbeitung der Inhalte auf dem Portal die Möglichkeit Touren verwalten zu können.
