@@ -31,7 +31,6 @@ Hierfür soll in der App ein eigener Menüpunkt in der Menüleiste eingebaut wer
 * Startort (verpflichtend)
 * Zielort (verpflichtend)
 * Schwierigkeit (verpflichtend)
-* Tags (ähnlich wie Hashtags)
 * Bilder (Beliebig viele Bilder oder kein Bild)
 * Empfohlene Jahreszeit (zB. Januar - März)
 
